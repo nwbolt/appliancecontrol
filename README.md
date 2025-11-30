@@ -21,8 +21,8 @@ This program uses a comand line interface
 
 status -  Prints the current state of all appliances 
 
-off    -  Turns all appliances to the off state
+off    -  Manually turns all appliances to the off state without background update service
 
 exit   -  Exits the Program
 
-Note: the backgroud service can be triggered by manualy setting your local computers time to Jan 1st 12:59 am before starting the program. After starting the program wait 1 minute for backgroud service to be triggered and update all appliances to be turned off. 
+Note: the backgroud update service can be triggered by manualy setting your local computers time to Jan 1st 12:59 am before starting the program. After starting the program wait 1 minute for backgroud service to be triggered and update all appliances to be turned off. 
