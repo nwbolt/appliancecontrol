@@ -8,6 +8,9 @@ This is my submision for the smart home appliance control solution assignment.
 
 clone the repository from this github page or Download the zip file from the Releases
 
+```bash
+git clone https://github.com/nwbolt/appliancecontrol.git
+```
 import as a maven project in the IDE of your choosing and run the App.java
 
 
